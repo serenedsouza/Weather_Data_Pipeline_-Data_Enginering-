@@ -1,0 +1,7 @@
+requests                 # For making HTTP requests to the weather API
+schedule                # For running scheduled jobs (hourly fetch)
+mysql-connector-python  # For connecting to MySQL database
+python-dotenv           # For loading environment variables from .env
+streamlit               # For creating the dashboard
+pandas                  # For handling and analyzing tabular data
+matplotlib.pyplot
